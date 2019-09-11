@@ -84,6 +84,48 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/kirill/Documents/PPvIS/laba_2/Figures/BasicFigure.cpp">
+			<Option target="laba_2"/>
+		</Unit>
+		<Unit filename="/home/kirill/Documents/PPvIS/laba_2/Figures/BasicFigure.h">
+			<Option target="laba_2"/>
+		</Unit>
+		<Unit filename="/home/kirill/Documents/PPvIS/laba_2/Figures/Circle.cpp">
+			<Option target="laba_2"/>
+		</Unit>
+		<Unit filename="/home/kirill/Documents/PPvIS/laba_2/Figures/Circle.h">
+			<Option target="laba_2"/>
+		</Unit>
+		<Unit filename="/home/kirill/Documents/PPvIS/laba_2/Figures/Ellipse.cpp">
+			<Option target="laba_2"/>
+		</Unit>
+		<Unit filename="/home/kirill/Documents/PPvIS/laba_2/Figures/Ellipse.h">
+			<Option target="laba_2"/>
+		</Unit>
+		<Unit filename="/home/kirill/Documents/PPvIS/laba_2/Figures/HalfSquareHalfCircle.cpp">
+			<Option target="laba_2"/>
+		</Unit>
+		<Unit filename="/home/kirill/Documents/PPvIS/laba_2/Figures/HalfSquareHalfCircle.h">
+			<Option target="laba_2"/>
+		</Unit>
+		<Unit filename="/home/kirill/Documents/PPvIS/laba_2/Figures/Quadrangle.cpp">
+			<Option target="laba_2"/>
+		</Unit>
+		<Unit filename="/home/kirill/Documents/PPvIS/laba_2/Figures/Quadrangle.h">
+			<Option target="laba_2"/>
+		</Unit>
+		<Unit filename="/home/kirill/Documents/PPvIS/laba_2/Figures/Rectangle.cpp">
+			<Option target="laba_2"/>
+		</Unit>
+		<Unit filename="/home/kirill/Documents/PPvIS/laba_2/Figures/Rectangle.h">
+			<Option target="laba_2"/>
+		</Unit>
+		<Unit filename="/home/kirill/Documents/PPvIS/laba_2/Figures/Square.cpp">
+			<Option target="laba_2"/>
+		</Unit>
+		<Unit filename="/home/kirill/Documents/PPvIS/laba_2/Figures/Square.h">
+			<Option target="laba_2"/>
+		</Unit>
 		<Unit filename="/home/kirill/Documents/PPvIS/laba_2/main.cpp">
 			<Option target="laba_2"/>
 		</Unit>

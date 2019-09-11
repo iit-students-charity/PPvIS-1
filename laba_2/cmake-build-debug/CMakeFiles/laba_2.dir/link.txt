@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/laba_2.dir/main.cpp.o  -o laba_2 
+/usr/bin/c++  -g   CMakeFiles/laba_2.dir/main.cpp.o CMakeFiles/laba_2.dir/Figures/BasicFigure.cpp.o CMakeFiles/laba_2.dir/Figures/Ellipse.cpp.o CMakeFiles/laba_2.dir/Figures/Circle.cpp.o CMakeFiles/laba_2.dir/Figures/Quadrangle.cpp.o CMakeFiles/laba_2.dir/Figures/Rectangle.cpp.o CMakeFiles/laba_2.dir/Figures/Square.cpp.o CMakeFiles/laba_2.dir/Figures/HalfSquareHalfCircle.cpp.o  -o laba_2 

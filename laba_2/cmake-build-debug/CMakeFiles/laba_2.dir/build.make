@@ -70,17 +70,122 @@ CMakeFiles/laba_2.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/laba_2.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kirill/Documents/PPvIS/laba_2/main.cpp -o CMakeFiles/laba_2.dir/main.cpp.s
 
+CMakeFiles/laba_2.dir/Figures/BasicFigure.cpp.o: CMakeFiles/laba_2.dir/flags.make
+CMakeFiles/laba_2.dir/Figures/BasicFigure.cpp.o: ../Figures/BasicFigure.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kirill/Documents/PPvIS/laba_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/laba_2.dir/Figures/BasicFigure.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/laba_2.dir/Figures/BasicFigure.cpp.o -c /home/kirill/Documents/PPvIS/laba_2/Figures/BasicFigure.cpp
+
+CMakeFiles/laba_2.dir/Figures/BasicFigure.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/laba_2.dir/Figures/BasicFigure.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kirill/Documents/PPvIS/laba_2/Figures/BasicFigure.cpp > CMakeFiles/laba_2.dir/Figures/BasicFigure.cpp.i
+
+CMakeFiles/laba_2.dir/Figures/BasicFigure.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/laba_2.dir/Figures/BasicFigure.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kirill/Documents/PPvIS/laba_2/Figures/BasicFigure.cpp -o CMakeFiles/laba_2.dir/Figures/BasicFigure.cpp.s
+
+CMakeFiles/laba_2.dir/Figures/Ellipse.cpp.o: CMakeFiles/laba_2.dir/flags.make
+CMakeFiles/laba_2.dir/Figures/Ellipse.cpp.o: ../Figures/Ellipse.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kirill/Documents/PPvIS/laba_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/laba_2.dir/Figures/Ellipse.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/laba_2.dir/Figures/Ellipse.cpp.o -c /home/kirill/Documents/PPvIS/laba_2/Figures/Ellipse.cpp
+
+CMakeFiles/laba_2.dir/Figures/Ellipse.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/laba_2.dir/Figures/Ellipse.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kirill/Documents/PPvIS/laba_2/Figures/Ellipse.cpp > CMakeFiles/laba_2.dir/Figures/Ellipse.cpp.i
+
+CMakeFiles/laba_2.dir/Figures/Ellipse.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/laba_2.dir/Figures/Ellipse.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kirill/Documents/PPvIS/laba_2/Figures/Ellipse.cpp -o CMakeFiles/laba_2.dir/Figures/Ellipse.cpp.s
+
+CMakeFiles/laba_2.dir/Figures/Circle.cpp.o: CMakeFiles/laba_2.dir/flags.make
+CMakeFiles/laba_2.dir/Figures/Circle.cpp.o: ../Figures/Circle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kirill/Documents/PPvIS/laba_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/laba_2.dir/Figures/Circle.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/laba_2.dir/Figures/Circle.cpp.o -c /home/kirill/Documents/PPvIS/laba_2/Figures/Circle.cpp
+
+CMakeFiles/laba_2.dir/Figures/Circle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/laba_2.dir/Figures/Circle.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kirill/Documents/PPvIS/laba_2/Figures/Circle.cpp > CMakeFiles/laba_2.dir/Figures/Circle.cpp.i
+
+CMakeFiles/laba_2.dir/Figures/Circle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/laba_2.dir/Figures/Circle.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kirill/Documents/PPvIS/laba_2/Figures/Circle.cpp -o CMakeFiles/laba_2.dir/Figures/Circle.cpp.s
+
+CMakeFiles/laba_2.dir/Figures/Quadrangle.cpp.o: CMakeFiles/laba_2.dir/flags.make
+CMakeFiles/laba_2.dir/Figures/Quadrangle.cpp.o: ../Figures/Quadrangle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kirill/Documents/PPvIS/laba_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/laba_2.dir/Figures/Quadrangle.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/laba_2.dir/Figures/Quadrangle.cpp.o -c /home/kirill/Documents/PPvIS/laba_2/Figures/Quadrangle.cpp
+
+CMakeFiles/laba_2.dir/Figures/Quadrangle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/laba_2.dir/Figures/Quadrangle.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kirill/Documents/PPvIS/laba_2/Figures/Quadrangle.cpp > CMakeFiles/laba_2.dir/Figures/Quadrangle.cpp.i
+
+CMakeFiles/laba_2.dir/Figures/Quadrangle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/laba_2.dir/Figures/Quadrangle.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kirill/Documents/PPvIS/laba_2/Figures/Quadrangle.cpp -o CMakeFiles/laba_2.dir/Figures/Quadrangle.cpp.s
+
+CMakeFiles/laba_2.dir/Figures/Rectangle.cpp.o: CMakeFiles/laba_2.dir/flags.make
+CMakeFiles/laba_2.dir/Figures/Rectangle.cpp.o: ../Figures/Rectangle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kirill/Documents/PPvIS/laba_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/laba_2.dir/Figures/Rectangle.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/laba_2.dir/Figures/Rectangle.cpp.o -c /home/kirill/Documents/PPvIS/laba_2/Figures/Rectangle.cpp
+
+CMakeFiles/laba_2.dir/Figures/Rectangle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/laba_2.dir/Figures/Rectangle.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kirill/Documents/PPvIS/laba_2/Figures/Rectangle.cpp > CMakeFiles/laba_2.dir/Figures/Rectangle.cpp.i
+
+CMakeFiles/laba_2.dir/Figures/Rectangle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/laba_2.dir/Figures/Rectangle.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kirill/Documents/PPvIS/laba_2/Figures/Rectangle.cpp -o CMakeFiles/laba_2.dir/Figures/Rectangle.cpp.s
+
+CMakeFiles/laba_2.dir/Figures/Square.cpp.o: CMakeFiles/laba_2.dir/flags.make
+CMakeFiles/laba_2.dir/Figures/Square.cpp.o: ../Figures/Square.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kirill/Documents/PPvIS/laba_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/laba_2.dir/Figures/Square.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/laba_2.dir/Figures/Square.cpp.o -c /home/kirill/Documents/PPvIS/laba_2/Figures/Square.cpp
+
+CMakeFiles/laba_2.dir/Figures/Square.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/laba_2.dir/Figures/Square.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kirill/Documents/PPvIS/laba_2/Figures/Square.cpp > CMakeFiles/laba_2.dir/Figures/Square.cpp.i
+
+CMakeFiles/laba_2.dir/Figures/Square.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/laba_2.dir/Figures/Square.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kirill/Documents/PPvIS/laba_2/Figures/Square.cpp -o CMakeFiles/laba_2.dir/Figures/Square.cpp.s
+
+CMakeFiles/laba_2.dir/Figures/HalfSquareHalfCircle.cpp.o: CMakeFiles/laba_2.dir/flags.make
+CMakeFiles/laba_2.dir/Figures/HalfSquareHalfCircle.cpp.o: ../Figures/HalfSquareHalfCircle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kirill/Documents/PPvIS/laba_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/laba_2.dir/Figures/HalfSquareHalfCircle.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/laba_2.dir/Figures/HalfSquareHalfCircle.cpp.o -c /home/kirill/Documents/PPvIS/laba_2/Figures/HalfSquareHalfCircle.cpp
+
+CMakeFiles/laba_2.dir/Figures/HalfSquareHalfCircle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/laba_2.dir/Figures/HalfSquareHalfCircle.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kirill/Documents/PPvIS/laba_2/Figures/HalfSquareHalfCircle.cpp > CMakeFiles/laba_2.dir/Figures/HalfSquareHalfCircle.cpp.i
+
+CMakeFiles/laba_2.dir/Figures/HalfSquareHalfCircle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/laba_2.dir/Figures/HalfSquareHalfCircle.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kirill/Documents/PPvIS/laba_2/Figures/HalfSquareHalfCircle.cpp -o CMakeFiles/laba_2.dir/Figures/HalfSquareHalfCircle.cpp.s
+
 # Object files for target laba_2
 laba_2_OBJECTS = \
-"CMakeFiles/laba_2.dir/main.cpp.o"
+"CMakeFiles/laba_2.dir/main.cpp.o" \
+"CMakeFiles/laba_2.dir/Figures/BasicFigure.cpp.o" \
+"CMakeFiles/laba_2.dir/Figures/Ellipse.cpp.o" \
+"CMakeFiles/laba_2.dir/Figures/Circle.cpp.o" \
+"CMakeFiles/laba_2.dir/Figures/Quadrangle.cpp.o" \
+"CMakeFiles/laba_2.dir/Figures/Rectangle.cpp.o" \
+"CMakeFiles/laba_2.dir/Figures/Square.cpp.o" \
+"CMakeFiles/laba_2.dir/Figures/HalfSquareHalfCircle.cpp.o"
 
 # External object files for target laba_2
 laba_2_EXTERNAL_OBJECTS =
 
 laba_2: CMakeFiles/laba_2.dir/main.cpp.o
+laba_2: CMakeFiles/laba_2.dir/Figures/BasicFigure.cpp.o
+laba_2: CMakeFiles/laba_2.dir/Figures/Ellipse.cpp.o
+laba_2: CMakeFiles/laba_2.dir/Figures/Circle.cpp.o
+laba_2: CMakeFiles/laba_2.dir/Figures/Quadrangle.cpp.o
+laba_2: CMakeFiles/laba_2.dir/Figures/Rectangle.cpp.o
+laba_2: CMakeFiles/laba_2.dir/Figures/Square.cpp.o
+laba_2: CMakeFiles/laba_2.dir/Figures/HalfSquareHalfCircle.cpp.o
 laba_2: CMakeFiles/laba_2.dir/build.make
 laba_2: CMakeFiles/laba_2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/kirill/Documents/PPvIS/laba_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable laba_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/kirill/Documents/PPvIS/laba_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable laba_2"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/laba_2.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

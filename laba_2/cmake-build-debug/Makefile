@@ -123,6 +123,195 @@ laba_2/fast:
 	$(MAKE) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/build
 .PHONY : laba_2/fast
 
+Figures/BasicFigure.o: Figures/BasicFigure.cpp.o
+
+.PHONY : Figures/BasicFigure.o
+
+# target to build an object file
+Figures/BasicFigure.cpp.o:
+	$(MAKE) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/Figures/BasicFigure.cpp.o
+.PHONY : Figures/BasicFigure.cpp.o
+
+Figures/BasicFigure.i: Figures/BasicFigure.cpp.i
+
+.PHONY : Figures/BasicFigure.i
+
+# target to preprocess a source file
+Figures/BasicFigure.cpp.i:
+	$(MAKE) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/Figures/BasicFigure.cpp.i
+.PHONY : Figures/BasicFigure.cpp.i
+
+Figures/BasicFigure.s: Figures/BasicFigure.cpp.s
+
+.PHONY : Figures/BasicFigure.s
+
+# target to generate assembly for a file
+Figures/BasicFigure.cpp.s:
+	$(MAKE) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/Figures/BasicFigure.cpp.s
+.PHONY : Figures/BasicFigure.cpp.s
+
+Figures/Circle.o: Figures/Circle.cpp.o
+
+.PHONY : Figures/Circle.o
+
+# target to build an object file
+Figures/Circle.cpp.o:
+	$(MAKE) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/Figures/Circle.cpp.o
+.PHONY : Figures/Circle.cpp.o
+
+Figures/Circle.i: Figures/Circle.cpp.i
+
+.PHONY : Figures/Circle.i
+
+# target to preprocess a source file
+Figures/Circle.cpp.i:
+	$(MAKE) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/Figures/Circle.cpp.i
+.PHONY : Figures/Circle.cpp.i
+
+Figures/Circle.s: Figures/Circle.cpp.s
+
+.PHONY : Figures/Circle.s
+
+# target to generate assembly for a file
+Figures/Circle.cpp.s:
+	$(MAKE) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/Figures/Circle.cpp.s
+.PHONY : Figures/Circle.cpp.s
+
+Figures/Ellipse.o: Figures/Ellipse.cpp.o
+
+.PHONY : Figures/Ellipse.o
+
+# target to build an object file
+Figures/Ellipse.cpp.o:
+	$(MAKE) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/Figures/Ellipse.cpp.o
+.PHONY : Figures/Ellipse.cpp.o
+
+Figures/Ellipse.i: Figures/Ellipse.cpp.i
+
+.PHONY : Figures/Ellipse.i
+
+# target to preprocess a source file
+Figures/Ellipse.cpp.i:
+	$(MAKE) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/Figures/Ellipse.cpp.i
+.PHONY : Figures/Ellipse.cpp.i
+
+Figures/Ellipse.s: Figures/Ellipse.cpp.s
+
+.PHONY : Figures/Ellipse.s
+
+# target to generate assembly for a file
+Figures/Ellipse.cpp.s:
+	$(MAKE) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/Figures/Ellipse.cpp.s
+.PHONY : Figures/Ellipse.cpp.s
+
+Figures/HalfSquareHalfCircle.o: Figures/HalfSquareHalfCircle.cpp.o
+
+.PHONY : Figures/HalfSquareHalfCircle.o
+
+# target to build an object file
+Figures/HalfSquareHalfCircle.cpp.o:
+	$(MAKE) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/Figures/HalfSquareHalfCircle.cpp.o
+.PHONY : Figures/HalfSquareHalfCircle.cpp.o
+
+Figures/HalfSquareHalfCircle.i: Figures/HalfSquareHalfCircle.cpp.i
+
+.PHONY : Figures/HalfSquareHalfCircle.i
+
+# target to preprocess a source file
+Figures/HalfSquareHalfCircle.cpp.i:
+	$(MAKE) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/Figures/HalfSquareHalfCircle.cpp.i
+.PHONY : Figures/HalfSquareHalfCircle.cpp.i
+
+Figures/HalfSquareHalfCircle.s: Figures/HalfSquareHalfCircle.cpp.s
+
+.PHONY : Figures/HalfSquareHalfCircle.s
+
+# target to generate assembly for a file
+Figures/HalfSquareHalfCircle.cpp.s:
+	$(MAKE) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/Figures/HalfSquareHalfCircle.cpp.s
+.PHONY : Figures/HalfSquareHalfCircle.cpp.s
+
+Figures/Quadrangle.o: Figures/Quadrangle.cpp.o
+
+.PHONY : Figures/Quadrangle.o
+
+# target to build an object file
+Figures/Quadrangle.cpp.o:
+	$(MAKE) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/Figures/Quadrangle.cpp.o
+.PHONY : Figures/Quadrangle.cpp.o
+
+Figures/Quadrangle.i: Figures/Quadrangle.cpp.i
+
+.PHONY : Figures/Quadrangle.i
+
+# target to preprocess a source file
+Figures/Quadrangle.cpp.i:
+	$(MAKE) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/Figures/Quadrangle.cpp.i
+.PHONY : Figures/Quadrangle.cpp.i
+
+Figures/Quadrangle.s: Figures/Quadrangle.cpp.s
+
+.PHONY : Figures/Quadrangle.s
+
+# target to generate assembly for a file
+Figures/Quadrangle.cpp.s:
+	$(MAKE) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/Figures/Quadrangle.cpp.s
+.PHONY : Figures/Quadrangle.cpp.s
+
+Figures/Rectangle.o: Figures/Rectangle.cpp.o
+
+.PHONY : Figures/Rectangle.o
+
+# target to build an object file
+Figures/Rectangle.cpp.o:
+	$(MAKE) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/Figures/Rectangle.cpp.o
+.PHONY : Figures/Rectangle.cpp.o
+
+Figures/Rectangle.i: Figures/Rectangle.cpp.i
+
+.PHONY : Figures/Rectangle.i
+
+# target to preprocess a source file
+Figures/Rectangle.cpp.i:
+	$(MAKE) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/Figures/Rectangle.cpp.i
+.PHONY : Figures/Rectangle.cpp.i
+
+Figures/Rectangle.s: Figures/Rectangle.cpp.s
+
+.PHONY : Figures/Rectangle.s
+
+# target to generate assembly for a file
+Figures/Rectangle.cpp.s:
+	$(MAKE) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/Figures/Rectangle.cpp.s
+.PHONY : Figures/Rectangle.cpp.s
+
+Figures/Square.o: Figures/Square.cpp.o
+
+.PHONY : Figures/Square.o
+
+# target to build an object file
+Figures/Square.cpp.o:
+	$(MAKE) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/Figures/Square.cpp.o
+.PHONY : Figures/Square.cpp.o
+
+Figures/Square.i: Figures/Square.cpp.i
+
+.PHONY : Figures/Square.i
+
+# target to preprocess a source file
+Figures/Square.cpp.i:
+	$(MAKE) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/Figures/Square.cpp.i
+.PHONY : Figures/Square.cpp.i
+
+Figures/Square.s: Figures/Square.cpp.s
+
+.PHONY : Figures/Square.s
+
+# target to generate assembly for a file
+Figures/Square.cpp.s:
+	$(MAKE) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/Figures/Square.cpp.s
+.PHONY : Figures/Square.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +348,27 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... laba_2"
 	@echo "... edit_cache"
+	@echo "... Figures/BasicFigure.o"
+	@echo "... Figures/BasicFigure.i"
+	@echo "... Figures/BasicFigure.s"
+	@echo "... Figures/Circle.o"
+	@echo "... Figures/Circle.i"
+	@echo "... Figures/Circle.s"
+	@echo "... Figures/Ellipse.o"
+	@echo "... Figures/Ellipse.i"
+	@echo "... Figures/Ellipse.s"
+	@echo "... Figures/HalfSquareHalfCircle.o"
+	@echo "... Figures/HalfSquareHalfCircle.i"
+	@echo "... Figures/HalfSquareHalfCircle.s"
+	@echo "... Figures/Quadrangle.o"
+	@echo "... Figures/Quadrangle.i"
+	@echo "... Figures/Quadrangle.s"
+	@echo "... Figures/Rectangle.o"
+	@echo "... Figures/Rectangle.i"
+	@echo "... Figures/Rectangle.s"
+	@echo "... Figures/Square.o"
+	@echo "... Figures/Square.i"
+	@echo "... Figures/Square.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
