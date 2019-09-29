@@ -17,20 +17,28 @@ class AppController < Sinatra::Base
   Dotenv.load
   configure do
     enable :sessions
+    set :root, File.expand_path("../../", __FILE__)
+    set :public_folder, File.expand_path("../../", __FILE__) + '/public'
     set :public_folder, File.dirname(__FILE__) + '/public'
     set :session_secret, ENV['key']
   end
 
   get '/' do
-    erb :home
+    erb :sign_in
   end
 
   post '/login' do
-    user = User.find_by(:card_number, params[:card_number])
-    unless user.nil?
-      erb :home if user.pin == params[:pin]
+    unless params.nil?
+      user = User.find_by( card_number: params[:card_number])
+      if user.nil? || user.pin != params[:pin]
+        erb :sign_in
+      else
+        erb :home
+      end
     end
   end
 
-  use UserController
+
+
+  #use UserController
 end
