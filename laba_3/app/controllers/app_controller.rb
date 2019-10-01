@@ -6,12 +6,14 @@ require 'sinatra/base'
 require 'sinatra/flash'
 require 'sinatra/activerecord'
 require 'erb'
+require 'pry'
 
 require 'dotenv'
 require 'require_all'
 
 require_rel '../models/'
 require_relative 'user_controller'
+require_relative 'operations_controller'
 
 class AppController < Sinatra::Base
   Dotenv.load
@@ -27,18 +29,15 @@ class AppController < Sinatra::Base
     erb :sign_in
   end
 
-  post '/login' do
-    unless params.nil?
-      user = User.find_by( card_number: params[:card_number])
-      if user.nil? || user.pin != params[:pin]
-        erb :sign_in
-      else
-        erb :home
-      end
-    end
+  post '/' do
+    erb :sign_in
   end
 
+  get '/log_out' do
+    session[:card_number] = nil
+    redirect '/'
+  end
 
-
-  #use UserController
+  use UserController
+  use OperationsController
 end

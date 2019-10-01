@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>ATM</title>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
+  <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/sign-in/">
+  <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="signin.css" rel="stylesheet">
+</head>
+
+<body class="text-center">
+<div class="login-form">
+  <form>
+    <h2 class="text-center">Balance</h2>
+
+    <h3>
+      <%= User.find_by( card_number: session[:card_number]).balance %>
+    </h3>
+
+    <a href="/home" class="btn btn-outline-secondary btn-block"> Back</a>
+  </form>
+</div>
+
+</body>
+</html>
